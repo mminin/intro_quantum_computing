@@ -28,10 +28,12 @@ https://www.youtube.com/watch?v=r2NMWEsNcTs
 ## Basic concepts from MIT Quantum Physics course 1
 (ref: https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/)
 
-### Linearity
-Equation has linearity if the following is true:
+### Linear operator
+Function L() is a linear operator if the following is true:
 
 aL(x)=L(ax) and L(a+b)=aL+bL
+
+POI: Quantum Mechanics is linear.
 
 (From video L1.1 of aforementioned course)
 
