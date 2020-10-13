@@ -33,7 +33,16 @@ Function L() is a linear operator if the following is true:
 
 aL(x)=L(ax) and L(a+b)=aL+bL
 
-POI: Quantum Mechanics is linear.
+POI: Quantum Mechanics is linear. Wave function in the Schrodinger equation is controlled by the Hamiltonian operator. Hamiltonian operator is a linear operator.
 
 (From video L1.1 of aforementioned course)
+
+### Schrodinger equation
+i * plank_constant * derivative( wavefunction, time ) = Hamiltonian_operator( wavefunction );
+Where i = sqrt(-1).
+
+### Eulers formula
+```
+e^(i*theta)=cos(theta)+i*sin(theta)
+```
 
