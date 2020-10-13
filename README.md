@@ -30,6 +30,8 @@ https://www.youtube.com/watch?v=r2NMWEsNcTs
 
 ### Linearity
 Equation has linearity if the following is true:
+
 aL(x)=L(ax) and L(a+b)=aL+bL
+
 (From video L1.1 of aforementioned course)
 
